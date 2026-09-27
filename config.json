@@ -1,0 +1,16 @@
+{
+  "watches": [
+    {
+      "name": "eldorado-robux",
+      "url": "https://www.eldorado.gg/buy-robux/g/70-0-0?offerSortingCriterion=Cheapest"
+    },
+    {
+      "name": "eldorado-items-basketball-legends",
+      "url": "https://www.eldorado.gg/roblox-items/i/70-2-0?searchQuery=basketball%20legends&offerSortingCriterion=Price&isAscending=false"
+    },
+    {
+      "name": "gameflip",
+      "url": "https://gameflip.com/shop?term=Basketball%20Legends&limit=36&price=10001%2C250000&status=onsale&page=1&start=0"
+    }
+  ]
+}
