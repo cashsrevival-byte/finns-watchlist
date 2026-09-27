@@ -1,0 +1,9 @@
+{
+  "name": "finns-watchlist-headless",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Headless GitHub-Actions runner for Finn's Watchlist — checks Gameflip/Eldorado and posts new listings to Discord.",
+  "dependencies": {
+    "node-html-parser": "^6.1.13"
+  }
+}
