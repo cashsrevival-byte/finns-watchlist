@@ -2,12 +2,12 @@
   "https://www.eldorado.gg/buy-robux/g/70-0-0?offerSortingCriterion=Cheapest": {
     "seenIds": [],
     "initialized": true,
-    "lastChecked": 1791498646254
+    "lastChecked": 1791499696548
   },
   "https://www.eldorado.gg/roblox-items/i/70-2-0?searchQuery=basketball%20legends&offerSortingCriterion=Price&isAscending=false": {
     "seenIds": [],
     "initialized": true,
-    "lastChecked": 1791498646393
+    "lastChecked": 1791499696801
   },
   "https://gameflip.com/shop?term=Basketball%20Legends&limit=36&price=10001%2C250000&status=onsale&page=1&start=0": {
     "seenIds": [
@@ -29,14 +29,14 @@
       "199f8d88-5d8b-4b60-bd5b-aeec0a5a4683",
       "0fd0e938-07bb-4ad2-b5b5-8b229beb8a1b",
       "9318f675-56a5-49a0-bf32-627da6b03309",
-      "1f536b81-3965-458d-97c3-a02fb4682e3d",
-      "0cf5a2e4-4dff-4e9e-8b2a-f0e055c72c44",
       "fda9ef88-75bd-4a3c-90d2-ddc229253029",
       "0073ca06-878b-418f-81e4-e589ecb70cab",
+      "1f536b81-3965-458d-97c3-a02fb4682e3d",
+      "0cf5a2e4-4dff-4e9e-8b2a-f0e055c72c44",
       "7949e14d-28af-403c-97ec-2eef27515992",
       "e5109216-e6df-48f1-9a14-1a0f12805081",
-      "ef5ba438-9050-407a-a842-baaf842e8c6f",
       "3a88e9a1-9a6f-4764-b52d-b01ad4de9073",
+      "ef5ba438-9050-407a-a842-baaf842e8c6f",
       "fcfaa8b8-4e38-475b-8eef-3a803cfa5fc9",
       "df84021d-c9d9-4789-b0e8-af0aa0d0e021",
       "86fd0ad4-ae35-4162-a36b-f750a9ea2b6c",
@@ -90,6 +90,6 @@
       "0494733a-409d-4eac-9fc9-fce75d497baf"
     ],
     "initialized": true,
-    "lastChecked": 1791498647056
+    "lastChecked": 1791499697326
   }
 }
