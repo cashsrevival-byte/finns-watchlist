@@ -2,12 +2,12 @@
   "https://www.eldorado.gg/buy-robux/g/70-0-0?offerSortingCriterion=Cheapest": {
     "seenIds": [],
     "initialized": true,
-    "lastChecked": 1792123546339
+    "lastChecked": 1792125280961
   },
   "https://www.eldorado.gg/roblox-items/i/70-2-0?searchQuery=basketball%20legends&offerSortingCriterion=Price&isAscending=false": {
     "seenIds": [],
     "initialized": true,
-    "lastChecked": 1792123547172
+    "lastChecked": 1792125281083
   },
   "https://gameflip.com/shop?term=Basketball%20Legends&limit=36&price=10001%2C250000&status=onsale&page=1&start=0": {
     "seenIds": [
@@ -43,10 +43,12 @@
       "ce01e944-c821-4e56-82f7-a64f7dcbb9b1",
       "1eef53c8-6228-48e3-8e51-ccf81e827e69",
       "c740f961-0cbf-4614-add8-b4768dcc18b6",
-      "5e8bfd9c-2970-4bf2-8f9a-b187f39d8233",
       "1d8ade32-8c30-4e32-9e46-e0b591a54b2d",
-      "2b6bcd37-5c25-4a04-abbd-46ba3c5bacde",
       "940761c6-231f-413c-8f79-a52187caef3f",
+      "8e4b1f16-2280-459d-90c1-70a3517fd8b9",
+      "461b1eaf-8fa2-4607-969e-60b7bcc23b5d",
+      "5e8bfd9c-2970-4bf2-8f9a-b187f39d8233",
+      "2b6bcd37-5c25-4a04-abbd-46ba3c5bacde",
       "ec4791e2-ebb7-4479-8e25-931ff9179329",
       "d9cb8cdd-0f56-4bea-ba66-12a085b1939e",
       "a2701fd4-c6a9-4926-b6f8-b44e960f6731",
@@ -60,7 +62,6 @@
       "20b549bc-62f2-40fe-af4c-43f35d09d579",
       "0fd0e938-07bb-4ad2-b5b5-8b229beb8a1b",
       "5e5f1c44-c8f3-45f6-861a-02eb7ca87326",
-      "8e4b1f16-2280-459d-90c1-70a3517fd8b9",
       "df1a43bf-59b5-4805-a130-2bd8a1c4fddf",
       "ab4ffb18-9cc8-41f4-979d-99ba731d93c7",
       "5bd4acc5-38a3-4529-851f-5d36fb1f9995",
@@ -69,7 +70,6 @@
       "c84fdc14-b62a-4ceb-80e0-2cbaeb4ce17b",
       "2c54b8e1-6f6e-4f56-baf0-74e6483e048f",
       "45f445b5-bd4e-46fa-b0ef-66e9aeba815b",
-      "461b1eaf-8fa2-4607-969e-60b7bcc23b5d",
       "ef7928ba-4451-41ed-9a24-a9dd9473d97f",
       "eac9feea-1916-4476-97eb-7f8adc4a34b5",
       "3b01871e-2d51-4355-b599-ef815fce7fb4",
@@ -100,6 +100,6 @@
       "0494733a-409d-4eac-9fc9-fce75d497baf"
     ],
     "initialized": true,
-    "lastChecked": 1792123547599
+    "lastChecked": 1792125281489
   }
 }
