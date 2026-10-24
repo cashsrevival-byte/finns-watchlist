@@ -2,12 +2,12 @@
   "https://www.eldorado.gg/buy-robux/g/70-0-0?offerSortingCriterion=Cheapest": {
     "seenIds": [],
     "initialized": true,
-    "lastChecked": 1792807645145
+    "lastChecked": 1792809285934
   },
   "https://www.eldorado.gg/roblox-items/i/70-2-0?searchQuery=basketball%20legends&offerSortingCriterion=Price&isAscending=false": {
     "seenIds": [],
     "initialized": true,
-    "lastChecked": 1792807645688
+    "lastChecked": 1792809286276
   },
   "https://gameflip.com/shop?term=Basketball%20Legends&limit=36&price=10001%2C250000&status=onsale&page=1&start=0": {
     "seenIds": [
@@ -17,37 +17,37 @@
       "b705ef62-b104-4358-91ad-1f8eeb8a0c1e",
       "de5fd518-b316-4d96-b5fd-ab65444b7d9b",
       "80a50ba0-b9d3-4e77-b03d-4937ea5a77fa",
-      "631658f6-8bb4-4bbe-b4be-96e76dd941bd",
       "5918b612-acab-49d0-bac0-e5653a9145bd",
+      "631658f6-8bb4-4bbe-b4be-96e76dd941bd",
       "4f53b36f-7e38-4fc5-b079-329c2a3103e7",
       "2286443b-3b70-4207-ad8e-579c25235d91",
       "d95adf54-33ea-4b33-b563-151bf42dd33c",
       "8de18785-b3c3-4a54-9a41-5e4f2ae1f69c",
       "a140e282-b29f-4427-8b74-3563ff5ed5f3",
       "bdb7389a-a532-440d-8a9f-42e53bb801b4",
-      "598dd8ed-322f-4e55-b5ed-2e1d01a1b9c4",
       "8bac99c5-bc02-4caa-992d-8eaa49b1acce",
+      "598dd8ed-322f-4e55-b5ed-2e1d01a1b9c4",
+      "861b1e1e-39d0-4aa8-9bfb-902aaf11e254",
       "aff674b4-47ca-490e-9edb-3f14d42e6cc6",
       "48fdb273-3dab-40a9-8568-4e116de20eef",
-      "861b1e1e-39d0-4aa8-9bfb-902aaf11e254",
       "b6a7836b-4cb3-4587-9d18-2156cc63a727",
-      "a758e50d-bbe8-4d0c-abef-11c12ac33636",
-      "511bcee2-a2ad-4241-872c-da504246a075",
       "0b9994ca-b6fb-44fa-ae9b-7654a76fc21e",
       "21f49890-9294-4787-9379-963b2e449dda",
+      "a758e50d-bbe8-4d0c-abef-11c12ac33636",
+      "511bcee2-a2ad-4241-872c-da504246a075",
       "18b9d0df-8575-4fcd-b0ea-cedb52ea0aea",
       "f5921a19-dc15-4936-ae40-ded414e9bb0e",
       "df28c49c-d1b7-4d0a-8dfa-e3f002b9e845",
       "585e32eb-dda0-46b5-b436-4b7afd9e6bb5",
+      "23cc08dc-0c34-4b34-b2ac-7ab6a9069a05",
       "fda9ef88-75bd-4a3c-90d2-ddc229253029",
       "0073ca06-878b-418f-81e4-e589ecb70cab",
-      "23cc08dc-0c34-4b34-b2ac-7ab6a9069a05",
       "1f536b81-3965-458d-97c3-a02fb4682e3d",
       "0cf5a2e4-4dff-4e9e-8b2a-f0e055c72c44",
       "e8d091bf-59f1-43b3-a15b-6f680608d39e",
       "9318f675-56a5-49a0-bf32-627da6b03309",
-      "ffc49037-60b4-4600-9609-540eb6755e6c",
       "7949e14d-28af-403c-97ec-2eef27515992",
+      "ffc49037-60b4-4600-9609-540eb6755e6c",
       "df84021d-c9d9-4789-b0e8-af0aa0d0e021",
       "fcfaa8b8-4e38-475b-8eef-3a803cfa5fc9",
       "50f880a6-8299-4cbd-aa4b-13d66d4dcc18",
@@ -144,6 +144,6 @@
       "0494733a-409d-4eac-9fc9-fce75d497baf"
     ],
     "initialized": true,
-    "lastChecked": 1792807646135
+    "lastChecked": 1792809286733
   }
 }
