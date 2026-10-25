@@ -2,12 +2,12 @@
   "https://www.eldorado.gg/buy-robux/g/70-0-0?offerSortingCriterion=Cheapest": {
     "seenIds": [],
     "initialized": true,
-    "lastChecked": 1792955032981
+    "lastChecked": 1792956504811
   },
   "https://www.eldorado.gg/roblox-items/i/70-2-0?searchQuery=basketball%20legends&offerSortingCriterion=Price&isAscending=false": {
     "seenIds": [],
     "initialized": true,
-    "lastChecked": 1792955033056
+    "lastChecked": 1792956505048
   },
   "https://gameflip.com/shop?term=Basketball%20Legends&limit=36&price=10001%2C250000&status=onsale&page=1&start=0": {
     "seenIds": [
@@ -20,8 +20,8 @@
       "631658f6-8bb4-4bbe-b4be-96e76dd941bd",
       "5918b612-acab-49d0-bac0-e5653a9145bd",
       "4f53b36f-7e38-4fc5-b079-329c2a3103e7",
-      "2286443b-3b70-4207-ad8e-579c25235d91",
       "a140e282-b29f-4427-8b74-3563ff5ed5f3",
+      "2286443b-3b70-4207-ad8e-579c25235d91",
       "d95adf54-33ea-4b33-b563-151bf42dd33c",
       "598dd8ed-322f-4e55-b5ed-2e1d01a1b9c4",
       "b6a7836b-4cb3-4587-9d18-2156cc63a727",
@@ -30,17 +30,17 @@
       "95838c9f-718c-4884-b4c1-da602fa605aa",
       "f5921a19-dc15-4936-ae40-ded414e9bb0e",
       "585e32eb-dda0-46b5-b436-4b7afd9e6bb5",
-      "23cc08dc-0c34-4b34-b2ac-7ab6a9069a05",
       "e8d091bf-59f1-43b3-a15b-6f680608d39e",
-      "7949e14d-28af-403c-97ec-2eef27515992",
       "ffc49037-60b4-4600-9609-540eb6755e6c",
+      "23cc08dc-0c34-4b34-b2ac-7ab6a9069a05",
+      "7949e14d-28af-403c-97ec-2eef27515992",
       "cc65dcb6-5ac1-4133-9589-8dc56462c30e",
       "fda9ef88-75bd-4a3c-90d2-ddc229253029",
       "1f536b81-3965-458d-97c3-a02fb4682e3d",
       "0cf5a2e4-4dff-4e9e-8b2a-f0e055c72c44",
+      "50f880a6-8299-4cbd-aa4b-13d66d4dcc18",
       "c92c5980-ca39-4a93-8bc5-99c1e402d1dd",
       "86c8159c-8660-4ea9-9645-f65bcf581a64",
-      "50f880a6-8299-4cbd-aa4b-13d66d4dcc18",
       "b14cef1d-bfd7-4f05-ab4c-84303a3d314d",
       "c03428c1-4c76-41b2-8d1c-be1991450cdc",
       "7d29d460-3e76-4306-b2d3-92e406351334",
@@ -149,6 +149,6 @@
       "0494733a-409d-4eac-9fc9-fce75d497baf"
     ],
     "initialized": true,
-    "lastChecked": 1792955033331
+    "lastChecked": 1792956505263
   }
 }
