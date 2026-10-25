@@ -2,12 +2,12 @@
   "https://www.eldorado.gg/buy-robux/g/70-0-0?offerSortingCriterion=Cheapest": {
     "seenIds": [],
     "initialized": true,
-    "lastChecked": 1792888788170
+    "lastChecked": 1792890976929
   },
   "https://www.eldorado.gg/roblox-items/i/70-2-0?searchQuery=basketball%20legends&offerSortingCriterion=Price&isAscending=false": {
     "seenIds": [],
     "initialized": true,
-    "lastChecked": 1792888788322
+    "lastChecked": 1792890977153
   },
   "https://gameflip.com/shop?term=Basketball%20Legends&limit=36&price=10001%2C250000&status=onsale&page=1&start=0": {
     "seenIds": [
@@ -27,12 +27,8 @@
       "36500ca3-ff4a-47cd-bc5f-2854a9df016e",
       "b6a7836b-4cb3-4587-9d18-2156cc63a727",
       "ec484262-8449-4161-8b11-c5d10cc840a2",
-      "0b9994ca-b6fb-44fa-ae9b-7654a76fc21e",
-      "21f49890-9294-4787-9379-963b2e449dda",
       "95838c9f-718c-4884-b4c1-da602fa605aa",
       "f5921a19-dc15-4936-ae40-ded414e9bb0e",
-      "18b9d0df-8575-4fcd-b0ea-cedb52ea0aea",
-      "df28c49c-d1b7-4d0a-8dfa-e3f002b9e845",
       "585e32eb-dda0-46b5-b436-4b7afd9e6bb5",
       "e8d091bf-59f1-43b3-a15b-6f680608d39e",
       "23cc08dc-0c34-4b34-b2ac-7ab6a9069a05",
@@ -47,6 +43,11 @@
       "86c8159c-8660-4ea9-9645-f65bcf581a64",
       "b14cef1d-bfd7-4f05-ab4c-84303a3d314d",
       "c03428c1-4c76-41b2-8d1c-be1991450cdc",
+      "7d29d460-3e76-4306-b2d3-92e406351334",
+      "0b9994ca-b6fb-44fa-ae9b-7654a76fc21e",
+      "21f49890-9294-4787-9379-963b2e449dda",
+      "18b9d0df-8575-4fcd-b0ea-cedb52ea0aea",
+      "df28c49c-d1b7-4d0a-8dfa-e3f002b9e845",
       "bdb7389a-a532-440d-8a9f-42e53bb801b4",
       "aff674b4-47ca-490e-9edb-3f14d42e6cc6",
       "48fdb273-3dab-40a9-8568-4e116de20eef",
@@ -68,7 +69,6 @@
       "89908426-5c3c-4035-b732-edf75c673bb5",
       "3c66dd21-a1cb-4acc-be8a-5d7ee6b9f13b",
       "58192bbb-3c5d-4004-95c8-41f9d621f18c",
-      "7d29d460-3e76-4306-b2d3-92e406351334",
       "47183e73-14f8-4463-8681-9e1c1eb2bb13",
       "199f8d88-5d8b-4b60-bd5b-aeec0a5a4683",
       "93c30e88-ce2a-4dfd-b492-64da9f5370e5",
@@ -149,6 +149,6 @@
       "0494733a-409d-4eac-9fc9-fce75d497baf"
     ],
     "initialized": true,
-    "lastChecked": 1792888788579
+    "lastChecked": 1792890977531
   }
 }
