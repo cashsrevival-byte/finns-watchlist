@@ -2,19 +2,19 @@
   "https://www.eldorado.gg/buy-robux/g/70-0-0?offerSortingCriterion=Cheapest": {
     "seenIds": [],
     "initialized": true,
-    "lastChecked": 1792996635126
+    "lastChecked": 1792999901594
   },
   "https://www.eldorado.gg/roblox-items/i/70-2-0?searchQuery=basketball%20legends&offerSortingCriterion=Price&isAscending=false": {
     "seenIds": [],
     "initialized": true,
-    "lastChecked": 1792996635669
+    "lastChecked": 1792999901997
   },
   "https://gameflip.com/shop?term=Basketball%20Legends&limit=36&price=10001%2C250000&status=onsale&page=1&start=0": {
     "seenIds": [
       "39e0102a-3e62-4105-9eaf-83ec33510b1b",
+      "b705ef62-b104-4358-91ad-1f8eeb8a0c1e",
       "f99e21ef-00cd-4e7e-b4b7-378c180d3faa",
       "2ff6a344-1346-41a9-801f-83006dc1d97a",
-      "b705ef62-b104-4358-91ad-1f8eeb8a0c1e",
       "de5fd518-b316-4d96-b5fd-ab65444b7d9b",
       "80a50ba0-b9d3-4e77-b03d-4937ea5a77fa",
       "631658f6-8bb4-4bbe-b4be-96e76dd941bd",
@@ -44,9 +44,11 @@
       "18b9d0df-8575-4fcd-b0ea-cedb52ea0aea",
       "df28c49c-d1b7-4d0a-8dfa-e3f002b9e845",
       "3414ca07-ead3-4be1-9dbb-c8cda23782b1",
+      "af2649ad-e4d4-4140-a6b8-07b411fa3eb4",
+      "c08a7302-f612-4ba7-8016-f141cb75e059",
+      "5e8bfd9c-2970-4bf2-8f9a-b187f39d8233",
       "ce01e944-c821-4e56-82f7-a64f7dcbb9b1",
       "1eef53c8-6228-48e3-8e51-ccf81e827e69",
-      "af2649ad-e4d4-4140-a6b8-07b411fa3eb4",
       "b14cef1d-bfd7-4f05-ab4c-84303a3d314d",
       "36500ca3-ff4a-47cd-bc5f-2854a9df016e",
       "ec484262-8449-4161-8b11-c5d10cc840a2",
@@ -98,7 +100,6 @@
       "68f21f72-ff6d-4c1e-84d0-f649e7c5badf",
       "7f6b0b77-b1d3-482d-85e9-e482df7813c6",
       "b7e975e3-dce4-4fc2-8240-0ca1a06b4c6c",
-      "5e8bfd9c-2970-4bf2-8f9a-b187f39d8233",
       "2b6bcd37-5c25-4a04-abbd-46ba3c5bacde",
       "ec4791e2-ebb7-4479-8e25-931ff9179329",
       "d9cb8cdd-0f56-4bea-ba66-12a085b1939e",
@@ -151,6 +152,6 @@
       "0494733a-409d-4eac-9fc9-fce75d497baf"
     ],
     "initialized": true,
-    "lastChecked": 1792996636096
+    "lastChecked": 1792999902477
   }
 }
